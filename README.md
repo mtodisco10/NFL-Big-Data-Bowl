@@ -1,2 +1,2 @@
-# nfl_big_data_bowl
+# NFL Big Data Bowl
 Storing code for my entry into NFL Inaugural Big Data Bowl
